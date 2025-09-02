@@ -57,13 +57,14 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 ## 📂 Project Structure
 ```
 └── Plant Disease Classification
-      ├── notebooks/
-      │   └── PlantDisease_EfficientNet.ipynb
-      ├── data/               # Kaggle dataset (not included here)
-      ├── saved_models/       # Trained .pth file
-      ├── images/             # Sample predictions & charts
-      ├── requirements.txt
-      └── README.md
+│     ├── notebooks/
+│     │   └── PlantDisease_EfficientNet.ipynb
+│     ├── data/               # Kaggle dataset (not included here)
+│     ├── saved_models/       # Trained .pth file
+│     ├── images/             # Sample predictions & charts
+│     └── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ---
