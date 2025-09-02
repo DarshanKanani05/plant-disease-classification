@@ -50,7 +50,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 - Achieved strong classification accuracy on validation & test sets.  
 - Visualizations show good generalization across disease categories.  
 
-![Plant Disease Classification Result](Images/Result.png)
+![Plant Disease Classification Result](Plant%20Disease%20Classification/Images/Result.png)
 
 ---
 
