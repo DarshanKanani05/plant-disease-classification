@@ -57,11 +57,11 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 ## 📂 Project Structure
 ```
 └── Plant Disease Classification
-│     ├── notebooks/
+│     ├── Notebook/
 │     │   └── PlantDisease_EfficientNet.ipynb
-│     ├── data/               # Kaggle dataset (not included here)
-│     ├── saved_models/       # Trained .pth file
-│     ├── images/             # Sample predictions & charts
+│     ├── Data/               # Kaggle dataset (not included here)
+│     ├── Saved Model/        # Trained .pth file
+│     ├── Images/             # Sample predictions & charts
 │     └── requirements.txt
 ├── LICENSE
 └── README.md
@@ -79,7 +79,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
    ```bash
    pip install -r requirements.txt
    ```
-3. Download dataset from Kaggle and place it under `data/`.  
+3. Download dataset from Kaggle and place it under `Data/`.  
 4. Run the notebook in Jupyter/Colab to train or use the inference script to test with new images.  
 
 ---
