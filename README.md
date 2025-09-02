@@ -70,7 +70,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 ## ▶️ How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/plant-disease-classification.git
+   git clone https://github.com/DarshanKanani05/plant-disease-classification.git
    cd plant-disease-classification
    ```
 2. Install dependencies:  
@@ -78,7 +78,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
    pip install -r requirements.txt
    ```
 3. Download dataset from Kaggle and place it under `data/`.  
-4. Run the notebook in Jupyter/Colab to train or use inference script to test with new images.  
+4. Run the notebook in Jupyter/Colab to train or use the inference script to test with new images.  
 
 ---
 
