@@ -50,7 +50,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 - Achieved strong classification accuracy on validation & test sets.  
 - Visualizations show good generalization across disease categories.  
 
-*(Add final accuracy/metrics once you confirm from notebook outputs.)*  
+![Trainig Result](Images/Result.png)
 
 ---
 
