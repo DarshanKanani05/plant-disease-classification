@@ -1,27 +1,27 @@
-# 🌱 Plant Disease Classification with EfficientNetB0
+# Plant Disease Classification with EfficientNetB0
 
-## 📌 Project Overview
+## Project Overview
 This project builds a deep learning model to classify plant leaf images into multiple disease categories. Early detection of plant diseases is crucial for improving crop yield and preventing losses in agriculture.  
 
 Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieves high accuracy on the **New Plant Diseases Dataset (Augmented)** from Kaggle.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source**: [New Plant Diseases Dataset (Augmented)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 - **Classes**: 38 different plant diseases + healthy leaves  
 - **Split**: Provided train/validation/test folders  
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - **Language**: Python  
 - **Frameworks**: PyTorch, Torchvision  
 - **Other tools**: Pandas, NumPy, Matplotlib, KaggleHub, Google Colab  
 
 ---
 
-## 🚀 Approach
+## Approach
 1. **Data Preprocessing**
    - Image resizing to 224×224  
    - Normalization (ImageNet mean/std)  
@@ -46,7 +46,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 
 ---
 
-## 📈 Results
+## Results
 - Achieved strong classification accuracy on validation & test sets.  
 - Visualizations show good generalization across disease categories.  
 
@@ -54,7 +54,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 └── Plant Disease Classification
 │     ├── Notebook/
@@ -69,7 +69,7 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone this repo:  
    ```bash
    git clone https://github.com/DarshanKanani05/plant-disease-classification.git
@@ -84,13 +84,13 @@ Using **EfficientNetB0**, a state-of-the-art CNN architecture, the model achieve
 
 ---
 
-## 🌍 Future Work
+## Future Work
 - Expand to larger datasets  
 - Optimize inference for mobile/edge deployment  
 - Deploy model with a web dashboard or API  
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 - Dataset: [Vipoooool – Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 - EfficientNetB0 paper: *Tan & Le (2019)*  
